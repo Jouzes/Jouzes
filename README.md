@@ -23,7 +23,7 @@
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cpp,mongodb,mysql,git,vscode&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cpp,mongodb,mysql,aws,docker,git,vscode&theme=dark&perline=11"/>
 </p>
 
 ---
