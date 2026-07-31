@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Building desktop and web applications from front-end to back-end.
+  🇧🇷 <b>Graduated in Information Systems from Uniplac</b>
 </p>
 
 <p align="center">
